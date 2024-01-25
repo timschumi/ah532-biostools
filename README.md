@@ -18,6 +18,8 @@ the issue that this tool tries to fix.
 
 ### Supported configurations
 
+- Fujitsu LIFEBOOK AH532 (YLKV), firmware v1.04
 - Fujitsu LIFEBOOK AH532 (YLKV), firmware v1.08
 - Fujitsu LIFEBOOK AH532 (YLKV), firmware v1.09
+- Fujitsu LIFEBOOK AH532 (YLKV), firmware v1.11
 - Fujitsu LIFEBOOK A532, firmware v1.10 ([reported working by third-party](https://mastodon.social/@GromBeestje/111795580489425479))
